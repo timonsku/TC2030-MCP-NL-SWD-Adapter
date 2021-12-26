@@ -11,4 +11,18 @@ BOM
 - Molex 90130-1110 (2x5 2.54mm PTH Shrouded)
 - Molex 90130-1120 (2x10 2.54mm PTH Shrouded)
 
+
+For the cable itself, the following Mouser PNs are the MCP variant:
+
+NL version:
+- 579-TC2030-MCP-NL 
+
+With hooks:
+- 733-53025-851
+- 579-TC2030-MCP
+
+For DigiKey:
+- TC2030-MCP-NLTC-ND
+- TC2030-MCPTC-ND
+
 ![Preview](TC2030-MCP-NL-Adapter.png)
