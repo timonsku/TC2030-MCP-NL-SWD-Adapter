@@ -1,5 +1,6 @@
 ﻿# TC2030-MCP-NL-SWD-Adapter
 
+Works for both NL and hook version of course. NL is just what I personally use.
 Breaks out the RJ12 connector from the TC2030-MCP to common SWD connectors and standard pin headers.
 Tested with actual target PCB to be following the pinout correctly.
 
